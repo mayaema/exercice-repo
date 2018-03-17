@@ -2,9 +2,7 @@ Some changes made here...
 cheking conflict solving options...
 More changes
 Looking for conflict!
-<<<<<<< HEAD
 Hello, checking changes made in branch, going for merge.
-=======
 Hello, again!!
 Just checking the branch
->>>>>>> develop
+conflict solved!
