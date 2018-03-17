@@ -8,3 +8,4 @@ Just checking the branch
 conflict solved!
 
 making changes with GitBash...
+also just writing but on gitHub profile.
