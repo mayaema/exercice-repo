@@ -6,3 +6,5 @@ Hello, checking changes made in branch, going for merge.
 Hello, again!!
 Just checking the branch
 conflict solved!
+
+making changes with GitBash...
